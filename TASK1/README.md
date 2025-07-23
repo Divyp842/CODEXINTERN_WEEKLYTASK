@@ -60,4 +60,3 @@ This project employs advanced AI models, which might necessitate specific resour
 
 Please refer to the Colab notebook for detailed execution instructions and code implementation.
 
-For any issues or suggestions, feel free to open an issue or contact [kmspragadeesh6000@gmail.com].
